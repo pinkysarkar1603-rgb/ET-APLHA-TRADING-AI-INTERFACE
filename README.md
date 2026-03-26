@@ -8,7 +8,7 @@ The goal is to make market understanding faster and more accessible without redu
 Due to file size limitations, the full project is provided as a ZIP file.
 
 👉 Please download **ET-78-copy.zip** from this repository and extract it to access the complete source code.
-
+**Also kindly go through the screenshots uploaded for better UI grasp.**
 Then follow the setup instructions below.
 By Developer- Akshat Sarkar
 
