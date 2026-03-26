@@ -74,9 +74,64 @@ A dedicated analytics lab that includes:
 - indicator overlays applied directly on the central chart
 - multiple data visuals for broader market exploration
 
-## 📸 Preview
 
+## 🧠 Why ET Alpha Instead of Other Tools?
 
+Most existing platforms fall into one of these categories:
+
+- **Charting Tools (e.g., TradingView)**  
+  Strong visuals, but require manual interpretation and experience.
+
+- **Broker Platforms (e.g., Zerodha, Upstox)**  
+  Focused on execution, not deep intelligence or explanation.
+
+- **Generic AI Tools (e.g., ChatGPT)**  
+  Can analyze markets, but lack structured, real-time, chart-linked context.
+
+---
+
+### 🚀 What Makes ET Alpha Different
+
+**1. Integrated Intelligence, Not Just Data**  
+ET Alpha combines market data, technical indicators, and AI reasoning into a single unified workflow — not separate tools.
+
+**2. Candle-Level Explainability**  
+Users can click on individual candlesticks and understand *why* a move happened, including:
+- domestic factors  
+- global triggers  
+- sector influence  
+- company-specific drivers  
+
+**3. India-First Market Design 🇮🇳**  
+Unlike global tools, ET Alpha is designed specifically for Indian equities with:
+- localized screening  
+- natural-language queries (Bharat Intelligence)  
+- India-relevant context and flows  
+
+**4. Multi-Workflow System (Not Just a Dashboard)**  
+With modules like Markets, Radar, Intel, and DATA, ET Alpha supports:
+- analysis  
+- comparison  
+- event tracking  
+- research  
+- decision support  
+
+All in one place.
+
+**5. AI That Works With Structure**  
+Instead of being a plain chatbot, ET Alpha integrates AI directly into:
+- charts  
+- indicators  
+- signals  
+- workflows  
+
+This makes insights contextual, not generic.
+
+---
+
+### 🎯 In One Line
+
+> ET Alpha is not just a charting tool or an AI assistant — it is a **complete market intelligence system designed for how modern traders actually think and operate.**
 
 
 
