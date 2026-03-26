@@ -3,7 +3,13 @@
 ET Alpha is an AI-powered market intelligence platform for Indian equities. It combines live market data, technical indicators, AI analysis, candlestick intelligence, factor attribution, natural-language screening, and deep visual research tools in one product.
 
 The goal is to make market understanding faster and more accessible without reducing everything to a plain chatbot or a static dashboard.
-## KINDLY OPEN ET-78-copy ZIP FILE AND DOWNLOAD RAW FILE, THEN FOLLOW THE INSTRUCTIONS BELOW.
+## 📦 Project Access
+
+Due to file size limitations, the full project is provided as a ZIP file.
+
+👉 Please download **ET-78-copy.zip** from this repository and extract it to access the complete source code.
+
+Then follow the setup instructions below.
 By Developer- Akshat Sarkar
 
 ## What ET Alpha Includes
