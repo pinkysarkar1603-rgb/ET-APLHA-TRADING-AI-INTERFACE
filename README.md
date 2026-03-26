@@ -306,6 +306,22 @@ Check that:
 - AI outputs are intended as market intelligence, not regulated investment advice.
 - Some features degrade gracefully if an AI request or external fetch is temporarily unavailable.
 
+## 📸 Preview
+
+<p align="center">
+  <img src="Screenshot 2026-03-26 194727.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-03-26 194743.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-03-26 194753.png" width="800"/>
+</p>
+
+
+
 ## Disclaimer
 
 ET Alpha is a research and analytics platform. It is **not** a SEBI-registered investment advisor and should not be treated as a source of regulated investment advice.
