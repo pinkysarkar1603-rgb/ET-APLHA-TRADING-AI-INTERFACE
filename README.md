@@ -74,6 +74,14 @@ A dedicated analytics lab that includes:
 - indicator overlays applied directly on the central chart
 - multiple data visuals for broader market exploration
 
+## 📸 Preview
+
+
+
+
+
+
+
 ## Tech Stack
 
 ### Frontend
